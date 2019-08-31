@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "573166278413",
+    "firebase_url": "https://smortec-61f80.firebaseio.com",
+    "project_id": "smortec-61f80",
+    "storage_bucket": "smortec-61f80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573166278413:android:9334c61d990e8659",
+        "android_client_info": {
+          "package_name": "com.qiotic.smortec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573166278413-p7uekf6ldpu0n1u0lvv62dioc63etmks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwglDXveFWc6GvOufG_a9CrQBP0833GIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573166278413-p7uekf6ldpu0n1u0lvv62dioc63etmks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
